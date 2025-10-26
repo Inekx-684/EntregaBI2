@@ -1,0 +1,33 @@
+# Entorno virtual
+venv/
+.env/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de logs
+logs/
+*.log
+
+# Archivos de Jupyter temporales
+.ipynb_checkpoints/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración locales
+*.sqlite
+*.db
+*.bak
+
+# Archivos temporales de editor
+*.swp
+*.swo
+
+# Archivos de salida
+output/
+*.xlsx
+*.csv
